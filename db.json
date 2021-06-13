@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "userId": 1,
+            "id": 1,
+            "title": "Bring Me The Horizon Released new EP",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores fugiat aliquam iure rerum tempora quod, ex voluptas? Quisquam fugiat saepe consequuntur labore alias sit, ducimus dicta, minima error beatae soluta perspiciatis vitae dolorum sunt."
+        },
+        {
+            "userId": 2,
+            "id": 2,
+            "title": "Megadeth Working on new album",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores fugiat aliquam iure rerum tempora quod, ex voluptas? Quisquam fugiat saepe consequuntur labore alias sit, ducimus dicta, minima error beatae soluta perspiciatis vitae dolorum sunt."
+        },
+        {
+            "userId": 1,
+            "id": 3,
+            "title": "James Hetfield got rehab again",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores fugiat aliquam iure rerum tempora quod, ex voluptas? Quisquam fugiat saepe consequuntur labore alias sit, ducimus dicta, minima error beatae soluta perspiciatis vitae dolorum sunt."
+        }
+    ]
+}
